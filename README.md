@@ -12,6 +12,9 @@ Currently: Cloud Engineer@Saint-Gobain
 - Linkedin: [nuno-antunes-00](https://www.linkedin.com/in/nuno-antunes-00)
 - Discord: dreadster3
 
+# Resume/CV
+If interested click [here](./resume.pdf)
+
 # Github Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=dreadster3&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
