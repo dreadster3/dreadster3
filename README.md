@@ -1,6 +1,6 @@
 # Hi there 👋
 Interests:
-- Software Engineeer
+- Software Engineer
 - Cloud Engineer
 - Security
 - Home labs
